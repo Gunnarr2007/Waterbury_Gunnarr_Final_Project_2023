@@ -14,6 +14,8 @@ math
 pygame or other screem 
 and other most likely 
 
+ajajajasbbjasjhasjdhasjhasjj
+
 Source:
 https://www.techwithtim.net/tutorials/python-online-game-tutorial
 https://medium.com/@DakaiZhou/generate-random-location-coordinates-within-given-area-with-python-1d6e62b6e382
