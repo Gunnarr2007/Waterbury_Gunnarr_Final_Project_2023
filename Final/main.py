@@ -26,3 +26,7 @@ https://www.youtube.com/watch?v=wicgBgZIUQA&list=PL1P11yPQAo7p_mEAk8Q8FNYVutIc58
 import random
 from random import randint
 import os 
+import cocos
+
+
+
